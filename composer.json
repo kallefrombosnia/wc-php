@@ -1,0 +1,17 @@
+{
+    "name": "kallefrombosnia/wc-php",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Kallefrombosnia\\WcPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Izet Mulalić",
+            "email": "izet@sprd.digital"
+        }
+    ],
+    "require": {}
+}
